@@ -1,15 +1,15 @@
 {
-  "main.css": "/Examen1UX/static/css/main.5b1870a4.chunk.css",
-  "main.js": "/Examen1UX/static/js/main.db5d9b77.chunk.js",
-  "main.js.map": "/Examen1UX/static/js/main.db5d9b77.chunk.js.map",
-  "runtime~main.js": "/Examen1UX/static/js/runtime~main.b3aeeab5.js",
-  "runtime~main.js.map": "/Examen1UX/static/js/runtime~main.b3aeeab5.js.map",
-  "static/css/2.d011e576.chunk.css": "/Examen1UX/static/css/2.d011e576.chunk.css",
-  "static/js/2.513dec50.chunk.js": "/Examen1UX/static/js/2.513dec50.chunk.js",
-  "static/js/2.513dec50.chunk.js.map": "/Examen1UX/static/js/2.513dec50.chunk.js.map",
-  "index.html": "/Examen1UX/index.html",
-  "precache-manifest.d426733ef07c8178bfe52062e6cad10a.js": "/Examen1UX/precache-manifest.d426733ef07c8178bfe52062e6cad10a.js",
-  "service-worker.js": "/Examen1UX/service-worker.js",
-  "static/css/2.d011e576.chunk.css.map": "/Examen1UX/static/css/2.d011e576.chunk.css.map",
-  "static/css/main.5b1870a4.chunk.css.map": "/Examen1UX/static/css/main.5b1870a4.chunk.css.map"
+  "main.css": "/ventas/static/css/main.5b1870a4.chunk.css",
+  "main.js": "/ventas/static/js/main.b677dbf1.chunk.js",
+  "main.js.map": "/ventas/static/js/main.b677dbf1.chunk.js.map",
+  "runtime~main.js": "/ventas/static/js/runtime~main.f35cfac5.js",
+  "runtime~main.js.map": "/ventas/static/js/runtime~main.f35cfac5.js.map",
+  "static/css/2.d011e576.chunk.css": "/ventas/static/css/2.d011e576.chunk.css",
+  "static/js/2.513dec50.chunk.js": "/ventas/static/js/2.513dec50.chunk.js",
+  "static/js/2.513dec50.chunk.js.map": "/ventas/static/js/2.513dec50.chunk.js.map",
+  "index.html": "/ventas/index.html",
+  "precache-manifest.1aa2ad0eb969d02ed460dba9ad7c1f18.js": "/ventas/precache-manifest.1aa2ad0eb969d02ed460dba9ad7c1f18.js",
+  "service-worker.js": "/ventas/service-worker.js",
+  "static/css/2.d011e576.chunk.css.map": "/ventas/static/css/2.d011e576.chunk.css.map",
+  "static/css/main.5b1870a4.chunk.css.map": "/ventas/static/css/main.5b1870a4.chunk.css.map"
 }
